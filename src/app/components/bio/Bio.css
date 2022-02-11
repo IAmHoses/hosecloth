@@ -1,0 +1,19 @@
+.Bio {
+  display: flex;
+  flex-direction: column;
+
+  position: relative;
+  top:150px;
+  right: 50px;
+
+  max-width: 600px;
+  margin: auto;
+}
+
+.Bio-name-text {
+  font-size: calc(7vmin + 1px);
+}
+
+.Bio-tagline-text {
+  font-size: calc(2vmin + 1px);
+}
