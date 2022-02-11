@@ -4,7 +4,7 @@ function Portfolio() {
   return (
     <row className={"Portfolio"}>
       <td className={"Portfolio-item"}>
-        <a href={"https://www.https://www.dropbox.com/s/jzt6igt7swi8pds/Hosecloth%20Resume.docx.pdf?dl=0"}
+        <a href={"https://docs.google.com/document/d/1bYLZiCjJV6KxfI2NRlgR1ABSefKNOT5X/edit"}
            className={"Portfolio-item-text"}>Resume</a>
       </td>
       <td className={"Portfolio-item"}>
