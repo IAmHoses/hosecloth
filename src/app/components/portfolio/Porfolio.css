@@ -19,15 +19,15 @@
   margin:auto;
 
   width: 33%;
-  height: calc(2vmin + 1rem);
+  height: calc(4vmin + 1rem);
   border: 2px solid #BECBC0;
-
-  padding: 1vmin 3vmax 1vmin 3vmax;
 }
 
 .Portfolio-item-text {
   max-width: 150px;
   margin: auto;
+
+  padding: 1vmin 3vmax 1vmin 3vmax;
 
   text-decoration: none;
   color: inherit;
